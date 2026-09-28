@@ -1,2 +1,2 @@
 print "Hello world"
-printadad (hello AI 2)
+print (hello AI 3)
